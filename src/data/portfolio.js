@@ -25,7 +25,7 @@ export const projects = [
       'Redesigned the official website, intranet system, and dashboard for the Financial Audit Authority using Figma. Focused on improving usability, accessibility, and modernizing the overall user experience.',
     tags: ['Figma', 'UI/UX', 'Dashboard Design', 'Web Design'],
     color: '#F59E0B',
-    link: '', // optional: add if available
+    link: 'https://www.faa.gov.ae/',
   },
 
   {
@@ -37,7 +37,7 @@ export const projects = [
       'Designed multiple government service interfaces for Dubai Land Department and Dubai Health Authority within the Dubai Now mobile app, following Dubai Design Authority (DDA) guidelines and ensuring consistency with government standards.',
     tags: ['Figma', 'Mobile UI', 'Design Systems', 'UX Research'],
     color: '#60A5FA',
-    link: '', // add dribbble/figma if you want
+    link: '',
   },
 
   {
@@ -48,7 +48,7 @@ export const projects = [
     description:'Contributed to the development of the judging system for the Dubai International Holy Quran Award using React and Tailwind CSS, focusing on performance and usability.',
     tags: ['React', 'Tailwind CSS', 'Frontend Development'],
     color: '#34D399',
-    link: '', // add github if available
+    link: '',
   },
 
   {
